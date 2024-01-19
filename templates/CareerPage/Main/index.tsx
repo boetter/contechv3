@@ -21,7 +21,7 @@ const Main = ({ scrollToRef }: MainProps) => {
                         <div className="max-w-[46.63rem] mb-10 text-greyscale-400 md:mb-6 md:text-lg">
                             Byggeriet er en af Danmarks mindst digitaliserede brancher, men der findes tusindvis af dygtige medarbejdere der ønsker at få digitalisering til at gøre en forskel. Dem ønsker vi med dette forløb at løfte, således at de selv bliver i stand til at bygge prototyper og afprøve deres idéer.
                         </div>
-                        <button className="btn-primary min-w-[10.6rem] px-5 md:min-w-full" href="#">
+                        <button className="btn-primary min-w-[10.6rem] px-5 md:min-w-full">
                             Send ansøgning
                         </button>
                     </div>
