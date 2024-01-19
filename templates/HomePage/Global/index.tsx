@@ -49,7 +49,7 @@ const Global = ({}: GlobalProps) => (
             <div className="relative w-full max-w-[45rem] h-full mx-auto">
                 <Image
                     className="object-cover"
-                    src="/images/content/global.png"
+                    src="/images/content/boetter.webp"
                     fill
                     sizes="(max-width: 1023px) 100vw, 50vw"
                     alt=""

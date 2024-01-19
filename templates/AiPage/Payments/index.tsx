@@ -6,25 +6,25 @@ const payments = [
         title: "Interne agenter",
         content:
             "Byggeriets SMV'er skal i gang med at oplære interne autonome agenter der kan løse klart definerede og afgrænsede opgaver, såsom at skrive udkast til tilbud eller pressemeddelelser.",
-        image: "/images/content/payments-pic-1.png",
+        image: "/images/content/ai-pic-1.webp",
     },
     {
         title: "Kundeservicerobotter",
         content:
             "Robotter drevet af store sprogmodeller kan assistere eller helt overtage dialogen med kunder ved at lære hvordan netop din virksomhed kommunikerer.",
-        image: "/images/content/payments-pic-2.png",
+        image: "/images/content/ai-pic-2.webp",
     },
     {
         title: "Generelle modeller",
         content:
             "Generelle modeller som ChatGPT kan løfte alle kontorarbejderes arbejdshastighed 20-40% og det er derfor på høje tid at komme i gang hvis I ikke allerede er ombord.",
-        image: "/images/content/payments-pic-3.png",
+        image: "/images/content/ai-pic-3.webp",
     },
     {
         title: "Forædling af data",
         content:
             "Byggeriet har masser af data om tidligere projekter, materialer eller deslige. Med Generativ AI kan vi automatisk forbedre vores data og pludselig sætte data i spil som tidligere har været for dyrt eller besværligt.",
-        image: "/images/content/payments-pic-4.png",
+        image: "/images/content/ai-pic-4.webp",
     },
 ];
 

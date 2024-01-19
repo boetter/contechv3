@@ -49,7 +49,7 @@ const Global = ({}: GlobalProps) => (
                 </div>
                 <div className="shrink-0 w-[31.25rem] bg-greyscale-25 border border-greyscale-100 lg:w-full">
                     <Image
-                        src="/images/content/global-1.png"
+                        src="/images/content/homeearth.webp"
                         className="w-full"
                         width={500}
                         height={450}
