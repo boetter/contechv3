@@ -6,25 +6,25 @@ const payments = [
         title: "En markedsplads",
         content:
             "Nick fra GK Danmark byggede en markedsplads i værktøjet Glide, hvor medarbejdere i virksomheden nu genanvender overskudsvarer fremfor at smide dem ud.",
-        image: "/images/content/payments-pic-1.png",
+        image: "/images/content/payments-pic-1.webp",
     },
     {
         title: "Et arbejdsredskab",
         content:
             "Jens fra Domis K/S byggede et arbejdsredskab i værktøjet Glide, hvor servicemedarbejdere i felten nemt kan overskue deres tilbagevendende opgaver på deres ejendomme.",
-        image: "/images/content/payments-pic-2.png",
+        image: "/images/content/payments-pic-2.webp",
     },
     {
         title: "Et intranet",
         content:
             "Emil fra Rønslev Rådgivende Ingeniører byggede et helt intranet i værktøjet Glide, hvor virksomhedens medarbejdere kan tilgå alt fra årshjul til personalehåndbog.",
-        image: "/images/content/payments-pic-3.png",
+        image: "/images/content/payments-pic-3.webp",
     },
     {
         title: "Et nyt produkt",
         content:
             "Morten fra Fiberbinder byggede et helt nyt digitalt produkt i værktøjet Glide, hvor virksomhedens kunder kan lære at bruge deres nye asbestforseglingsprodukter.",
-        image: "/images/content/payments-pic-4.png",
+        image: "/images/content/payments-pic-4.webp",
     },
 ];
 

@@ -7,11 +7,11 @@ const items = [
     },
     {
         title: "Ville anbefale andre at deltage",
-        value: "85.5%",
+        value: "85%",
     },
     {
         title: "Vurderer de har fået meget stor værdi af forløbet",
-        value: "92.2%",
+        value: "92%",
     },
 ];
 
@@ -23,11 +23,16 @@ const Global = ({}: GlobalProps) => (
             <div className="max-w-[35rem] ml-auto lg:max-w-full">
                 <div className="stage text-primary-300">Deltagerne</div>
                 <div className="mb-4 text-h2 text-greyscale-0 xl:text-h3 md:text-h4">
-                Vi leder efter nysgerrige sjæle der ikke er bange for nye digitale muligheder
+                Vi leder efter nysgerrige sjæle, der ikke er bange for nye digitale muligheder
                 </div>
                 <div className="mb-17 text-white/70 xl:mb-12 md:mb-8">
-                Forløbet er ikke for programmører, IT-medarbejdere eller ledere. Vi har lagt vores fokus på at gøre en forskel for alle jer der selv har bygget digitale løsninger såsom Excel-ark til at få hverdagen til at hænge sammen – uden måske nødvendigvis at have IT som hovedbeskæftigelse.
+                Forløbet er ikke for programmører, IT-medarbejdere eller ledere. Vi har  fokus på at gøre en forskel for alle dem, der eksempelvis  bygger digitale løsninger i Excel for at få hverdagen til at hænge sammen – uden  nødvendigvis at have IT som hovedbeskæftigelse.
+
+Vi arbejder med dem, der uanset uddannelsesbaggrund, kan lide at arbejde digitalt og er nysgerrige på nye måder at gøre tingene.
                 </div>
+
+
+                
                 <div className="flex -mx-7 2xl:-mx-5 md:block md:mx-0">
                     {items.map((item, index) => (
                         <div
@@ -45,7 +50,7 @@ const Global = ({}: GlobalProps) => (
                 </div>
             </div>
         </div>
-        <div className="flex w-1/2 bg-primary-300 lg:w-full lg:aspect-[1.2] md:aspect-square">
+        <div className="flex w-1/2 bg-secondary-300 lg:w-full lg:aspect-[1.2] md:aspect-square">
             <div className="relative w-full max-w-[45rem] h-full mx-auto">
                 <Image
                     className="object-cover"

@@ -3,22 +3,22 @@ import Image from "@/components/Image";
 
 const details = [
     {
-        title: "Ansøg på 5 minutter",
+        title: "Ansøg inden 8. marts",
         content:
-            "Vi har brug for at vide hvem du er og hvor du arbejder for at være sikker på at du er kvalificeret til et gratis forløb. Derudover ønsker vi blot at vide hvorfor vi netop skal vælge dig.",
-        image: "/images/content/details-pic-1.jpg",
+            "Vi skal blot vide lidt om,  hvem du er og hvor du arbejder, så vi kan tjekke om du er kvalificeret til et gratis forløb. Og så vil vi selvfølgelig også gerne vide, hvorfor  vi netop skal vælge dig.",
+        image: "/images/content/details-pic-1.webp",
     },
     {
-        title: "Få svar 1. marts",
+        title: "Få svar 21. marts",
         content:
-            "Der udvælges seks deltagere blandt alle ansøgere og vi giver svar d. 1. marts om du kom gennem nåleøjet. Deltagerne udvælges af repræsentanter fra Danske Ark, DI Byggeri, We Build Denmark, FRI, BLOXHUB, TEKNIQ, Bygherreforeningen og ConTech Lab.",
-        image: "/images/content/details-pic-2.jpg",
+            "Blandt årets ansøgere udvælger vi  seks virksomheder. Er du nået igennem nåleøjet, får du svar d. 21. marts. For at sikre en fair udvælgelsesproces har vi sammensat en jury med gode folk fra forskellige brancheorganisationer, der repræsenterer byggeriets værdikæde på tværs.",
+        image: "/images/content/details-pic-2.webp",
     },
     {
         title: "Afsæt tre arbejdsdage",
         content:
-            "Deltagerne forventes at afsætte tre fulde arbejdsdage til forløbet som foregår hos jer. Der er derfor ingen rejsetid og alt er skræddersyet netop til jeres behov.",
-        image: "/images/content/details-pic-3.jpg",
+            "Forløbet foregår hos jer. I skal ikke bekymre jer om rejsetid. I stedet skal I  sikre, at I kan afsætte tre fulde arbejdsdage til forløbet og at I har blokeret kalenderen hos en eller flere, der passer beskrivelsen nedenfor.   ",
+        image: "/images/content/details-pic-3.webp",
     },
 ];
 
@@ -33,7 +33,7 @@ const Details = ({}: DetailsProps) => (
                 Gratis, uforpligtende og overskueligt
                 </div>
                 <div className="max-w-[40.9rem] text-greyscale-400">
-                Vi har arbejdet hårdt for at dette forløb skal skabe værdi for deltagerne og ikke drukne dem i evalueringer eller tunge ansøgningsprocedurer.
+                Vi har arbejdet hårdt for at dette forløb skal skabe værdi for deltagerne og ikke drukne i evalueringer og  tunge ansøgningsprocedurer. 
                 </div>
             </div>
             <div className="flex space-x-8 lg:block lg:space-x-0 lg:space-y-10 md:space-y-6">

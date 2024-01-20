@@ -25,7 +25,7 @@ const Footer = ({}: FooterProps) => (
             <div className="flex justify-between items-center md:block md:pt-8 md:border-t md:border-greyscale-200">
                 <div className="flex items-center text-lg text-[#666D80] md:justify-center md:mb-4">
 
-                    Et samarbejde mellem Industriens Fond, Realdania og Molio
+                    Har du spørgsmål? Kontakt Annelise på alh@molio.dk eller telefon 2174 3132.
                 </div>
                 <div className="flex space-x-4 md:justify-center">
                     {socials.map((social) => (

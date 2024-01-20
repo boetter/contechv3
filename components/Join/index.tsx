@@ -11,12 +11,12 @@ const Join = ({}: JoinProps) => (
                     Skal vi rykke jeres virksomhed digitalt på bare tre dage?
                     </div>
                     <div className="mb-10 text-white/70 md:mb-8 md:px-1">
-                    Send din ansøgning i dag – vi behandler dem alle fortroligt.
+                    Send din ansøgning senest 8. marts.
                     </div>
                     <div className="flex justify-center space-x-4 md:block md:space-x-0 md:space-y-4">
                         <Link
                             className="btn-primary min-w-[10.6rem] px-5 md:min-w-full"
-                            href="#"
+                            href="https://form.jotform.com/240182473965361"
                         >
                             Send ansøgning
                         </Link>

@@ -21,7 +21,7 @@ const Jobs = ({ scrollToRef }: JobsProps) => (
                     Tidligere deltagere
                 </div>
                 <div className="text-greyscale-400">
-                    Vi har udbudt programmet to gange tidligere og har derved opnået gode erfaringer med byggebranchens særlige udfordringer og muligheder når det kommer til ny teknologi. Tidligere deltagere kom bl.a. fra:
+                Vi har udbudt programmet to gange tidligere og har derved opnået gode erfaringer med byggebranchens særlige udfordringer og muligheder, når det kommer til ny teknologi. Tidligere deltagere kom bl.a. fra:
                 </div>
             </div>
             <div className="space-y-4">
@@ -53,7 +53,7 @@ const Jobs = ({ scrollToRef }: JobsProps) => (
                 Skal din virksomhed også stå på listen?{" "}
                 <Link
                     className="text-secondary-300 underline transition-colors hover:text-primary-100 hover:no-underline"
-                    href="#"
+                    href="https://form.jotform.com/240182473965361"
                 >
                     Send ansøgning
                 </Link>

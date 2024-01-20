@@ -15,18 +15,18 @@ const Main = ({}: MainProps) => (
                 <div className="flex items-center mb-22 lg:block md:mb-6">
                     <div className="grow pr-10 lg:pr-0">
                         <div className="label mb-4 bg-white/[.04] border border-[#DE7857]/50 text-sm text-[#DE7857]">
-                            🎉 Tilmelding for 2024 er åben!
+                            🎉 Der er åbent for ansøgninger til 2024 forløbet!
                         </div>
                         <div className="mb-4 text-h1 xl:text-h2 md:text-h3">
                         Lær at bygge apps eller arbejde med AI i byggeriet
                         </div>
                         <div className="mb-10 text-white/70 md:text-lg">
-                        Lær hvordan du selv kan bygge prototyper af apps eller eksperimentere med anvendelse af AI i jeres forretning. Forløbet er gratis for små og mellemstore virksomheder i den danske byggebranche.
+                        Lær hvordan du selv kan bygge prototyper af apps eller eksperimentere med anvendelse af AI i din forretning. Forløbet er gratis for små og mellemstore virksomheder i den danske byggebranche.
                         </div>
                         <div className="flex space-x-4 md:block md:space-x-0 md:space-y-4">
                             <Link
                                 className="btn-primary min-w-[10.6rem] px-5 md:min-w-full"
-                                href="#"
+                                href="https://form.jotform.com/240182473965361"
                             >
                                 Send ansøgning
                             </Link>
@@ -41,7 +41,7 @@ const Main = ({}: MainProps) => (
                     <div className="relative shrink-0 w-[49.48%] lg:w-full lg:mt-16 md:mt-8">
                         <Image
                             className="w-full border border-white/[.15] shadow-1"
-                            src="/images/content/screenshot-bynatur.jpg"
+                            src="/images/content/screenshot-bynatur.webp"
                             width={574}
                             height={520}
                             alt=""
@@ -49,7 +49,7 @@ const Main = ({}: MainProps) => (
                         <div className="absolute top-[5%] -right-[24.5%] w-[80%] 2xl:top-[15%] 2xl:-right-[16%] 2xl:w-[70%] lg:top-[5%] lg:-right-[15%] lg:w-[80%]">
                             <Image
                                 className="w-full"
-                                src="/images/content/mobile-1.png"
+                                src="/images/content/mobile-1.webp"
                                 width={459}
                                 height={690}
                                 alt=""

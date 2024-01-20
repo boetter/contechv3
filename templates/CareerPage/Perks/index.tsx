@@ -3,9 +3,9 @@ import Icon from "@/components/Icon";
 
 const items = [
     {
-        title: "Nysgerrighed fremfor alt",
+        title: "Nysgerrighed frem for alt",
         content:
-            "De bedste deltagere er de mest nysgerrige deltagere!",
+            "De bedste deltagere er de nysgerrige deltagere!",
         icon: "/images/content/icons/heart-hand.svg",
     },
     {
@@ -35,14 +35,14 @@ const Perks = ({}: PerksProps) => (
                             Du har måske bygget virksomhedens logik i Excel, men ønsker at gøre mere
                         </div>
                         <div className="mb-8 text-greyscale-400 md:mb-6">
-                            Forløbet er ikke for programmører eller andre IT-professionelle, men for alle os andre nørder der selv har haft fingrene ned i at digitalisere dele af virksomhedens processer.
+                        Forløbet er ikke for programmører eller andre IT-professionelle, men for alle os andre nørder, der selv har haft fingrene nede i at digitalisere dele af virksomhedens processer. Forløbet er for dig der:
                         </div>
                         <div className="space-y-3">
                             {[
                                 "Du elsker at være hands-on og afprøve nye teknologier",
-                                "Du ved lige hvor virksomhedens processer kan blive bedre",
-                                "Du kender lidt til jeres data og systemer",
-                                "Du er frisk på at lære noget helt nyt",
+                                "Du ved lige hvor virksomhedens processer, kan blive bedre",
+                                "Du kender lidt til jeres data og systemer i virksomheden",
+                                "Du er frisk på at lære noget helt nyt og sjovt",
                             ].map((item, index) => (
                                 <div className="flex" key={index}>
                                     <div className="flex justify-center items-center w-5 h-5 mt-0.75 mr-4 rounded-full bg-primary-300">
@@ -59,7 +59,7 @@ const Perks = ({}: PerksProps) => (
                 </div>
                 <div className="shrink-0 w-[31.25rem] bg-greyscale-25 border border-greyscale-100 lg:w-full">
                     <Image
-                        src="/images/content/career-pic-1.jpg"
+                        src="/images/content/career-pic-1.webp"
                         className="w-full lg:aspect-[1.3] lg:object-cover"
                         width={500}
                         height={450}

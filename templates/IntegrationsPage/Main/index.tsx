@@ -9,13 +9,6 @@ const Main = ({}: MainProps) => (
         <div className="section text-center">
             <div className="container">
                 <div className="label mb-4">
-                    <Image
-                        className="w-4.5 h-4.5 mr-2 opacity-100"
-                        src="/images/content/icons/grid.svg"
-                        width={18}
-                        height={18}
-                        alt=""
-                    />
                     Værktøjer
                 </div>
                 <div className="max-w-[53.5rem] mx-auto mb-4 text-h1 xl:max-w-[40rem] xl:text-h2 md:text-h3">
@@ -27,7 +20,7 @@ const Main = ({}: MainProps) => (
                 <div className="flex justify-center space-x-4 md:block md:space-x-0 md:space-y-4">
                     <Link
                         className="btn-primary min-w-[10.6rem] px-5 md:min-w-full"
-                        href="#"
+                        href="https://form.jotform.com/240182473965361"
                     >
                         Send ansøgning
                     </Link>

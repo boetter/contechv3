@@ -4,20 +4,20 @@ import Icon from "@/components/Icon";
 
 const solutions = [
     {
-        title: "Byg prototyper på minutter fremfor måneder",
+        title: "Byg prototyper på minutter frem for måneder",
         stage: "No-code",
         content:
-            "No-code er betegnelsen for redskaber der gør det muligt at bygge software uden at skrive kildekode. Du kan i forløbet lære hvordan jeres visioner kan omsættes til konkrete prototyper på minutter.",
-        image: "/images/content/solutions-pic-1.png",
-        url: "/solutions",
+            "No-code er betegnelsen for redskaber, der gør det muligt at bygge software uden at skrive kildekode. Du kan i forløbet lære, hvordan jeres visioner kan omsættes til konkrete prototyper på få minutter og eksperimentere med at bygge nye løsninger, uden at involvere en stor IT-afdeling og spise hele dit udviklingsbudget.",
+        image: "/images/content/solutions-pic-1.webp",
+        url: "/no-code",
     },
     {
-        title: "Afprøv ChatGPT og lignende redskaber på jeres processer",
-        stage: "AI",
+        title: "Afprøv ChatGPT og lignende redskaber på interne processer",
+        stage: "Generativ AI",
         content:
-            "Vi har det seneste år været vidne til et større jordskred i den teknologiske udvikling med fremkomsten af såkaldte Generative AI værktøjer som ChatGPT og Midjourney. Du kan i forløbet lære hvordan I implementerer det i jeres forretning og eksperimenterer med at automatisere dele af jeres arbejde.",
-        image: "/images/content/solutions-pic-2.png",
-        url: "/solutions",
+            "Vi har det seneste år været vidne til et større jordskred i den teknologiske udvikling med fremkomsten af såkaldte Generative AI værktøjer som ChatGPT og Midjourney. Ligger din interesse i AI, kan du og din virksomhed bruge forløbet til at lære, hvordan I implementerer det i jeres forretning og eksperimenterer med at automatisere dele af jeres arbejde.",
+        image: "/images/content/solutions-pic-2.webp",
+        url: "/ai",
     },
 ];
 
@@ -32,7 +32,7 @@ const Solutions = ({}: SolutionsProps) => (
                 Kom i digital mesterlære
                 </div>
                 <div className="max-w-[48rem] text-greyscale-400 md:text-lg">
-                Tre intensive dage på dit kontor hvor du sidder side og side med dansk ekspert i no-code og AI løsninger. I bygger konkrete løsninger på din virksomheds udfordringer og imens lærer du hvordan du selv kan tackle mulighederne næste gang.
+                Tre intensive dage på dit kontor, hvor du sidder side om side med Jacob Bøtter, der er ekspert i no-code og AI-løsninger. I fællesskab bygger I konkrete, digitale løsninger, der imødekommer de udfordringer, I står overfor som virksomhed.   Undervejs får du føling med no-code principperne og lærer, hvordan du fremadrettet kan eksperimentere og bygge løsninger til de behov, der opstår på kontoret. 
                 </div>
             </div>
             <div className="space-y-30 xl:space-y-24 lg:space-y-20 md:space-y-12">
@@ -53,7 +53,7 @@ const Solutions = ({}: SolutionsProps) => (
                                 className="btn-primary pr-5 md:w-full"
                                 href={solution.url}
                             >
-                                <span>Learn More</span>
+                                <span>Læs mere</span>
                                 <Icon className="w-5 h-5" name="arrow-right" />
                             </Link>
                         </div>

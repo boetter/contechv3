@@ -4,7 +4,7 @@ const items = [
     {
         title: "Du sætter tiden af",
         content:
-            "At deltage i forløbet kræver at du afsætter tre fulde arbejdsdage hvor vi sammen kan udforske jeres udfordringer.",
+            "At deltage i forløbet kræver, at du afsætter tre fulde arbejdsdage, hvor vi sammen kan udforske jeres udfordringer og arbejde på løsninger.",
         icon: "/images/content/icons/user-circle.svg",
     },
     {
@@ -16,7 +16,7 @@ const items = [
     {
         title: "Du har opbakning",
         content:
-            "Undervejs i forløbet kommer vi til at arbejde med jeres virksomheds udfordringer og systemer – det forventer vi at din nærmeste leder støtter op om.",
+            "Undervejs i forløbet kommer vi til at arbejde med jeres virksomheds udfordringer og systemer – det forventer vi, at din nærmeste leder støtter op om.",
         icon: "/images/content/icons/trophy.svg",
     },
     {
