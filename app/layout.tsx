@@ -20,7 +20,7 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <html lang="en">
+        <html lang="da">
             <head>
                 {/* Description no longer than 155 characters */}
                 <meta
