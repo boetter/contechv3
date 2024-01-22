@@ -57,6 +57,9 @@ export const pricing = [
             {
                 title: "Fysiske og virtuelle events",
             },
+            {
+                title: "Evaluering efter forløb, samt et år efter",
+            },
         ],
     },
 ];
