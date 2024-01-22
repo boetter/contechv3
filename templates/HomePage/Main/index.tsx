@@ -18,7 +18,7 @@ const Main = ({}: MainProps) => (
                             🎉 Der er åbent for ansøgninger til 2024 forløbet!
                         </div>
                         <div className="mb-4 text-h1 xl:text-h2 md:text-h3">
-                        Lær at bygge apps eller arbejde med AI i byggeriet
+                        Lær at bygge apps på tre dage – uden kode
                         </div>
                         <div className="mb-10 text-white/70 md:text-lg">
                         Lær hvordan du selv kan bygge prototyper af apps eller eksperimentere med anvendelse af AI i din forretning. Forløbet er gratis for små og mellemstore virksomheder i den danske byggebranche.
