@@ -44,6 +44,7 @@ const Main = ({}: MainProps) => (
                             src="/images/content/screenshot-bynatur.webp"
                             width={574}
                             height={520}
+                            priority={true}
                             alt=""
                         />
                         <div className="absolute top-[5%] -right-[24.5%] w-[80%] 2xl:top-[15%] 2xl:-right-[16%] 2xl:w-[70%] lg:top-[5%] lg:-right-[15%] lg:w-[80%]">
