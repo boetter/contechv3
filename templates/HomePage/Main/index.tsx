@@ -15,7 +15,7 @@ const Main = ({}: MainProps) => (
                 <div className="flex items-center mb-22 lg:block md:mb-6">
                     <div className="grow pr-10 lg:pr-0">
                         <div className="label mb-4 bg-white/[.04] border border-[#DE7857]/50 text-sm text-[#DE7857]">
-                            🎉 Der er åbent for ansøgninger til 2024 forløbet!
+                            🙏 Vi takker for den store interesse for årets forløb!
                         </div>
                         <div className="mb-4 text-h1 xl:text-h2 md:text-h3">
                         Lær at bygge apps på tre dage – uden kode
@@ -24,12 +24,6 @@ const Main = ({}: MainProps) => (
                         Lær hvordan du selv kan bygge prototyper af apps eller eksperimentere med anvendelse af AI i din forretning. Forløbet er gratis for små og mellemstore virksomheder i den danske byggebranche.
                         </div>
                         <div className="flex space-x-4 md:block md:space-x-0 md:space-y-4">
-                            <Link
-                                className="btn-primary min-w-[10.6rem] px-5 md:min-w-full"
-                                href="https://form.jotform.com/240182473965361"
-                            >
-                                Send ansøgning
-                            </Link>
                             <Link
                                 className="btn-secondary min-w-[10.6rem] px-5 md:min-w-full"
                                 href="https://www.youtube.com/watch?v=WYHSFGsWllE"

@@ -82,9 +82,6 @@ const Header = ({ className, dark }: HeaderProps) => {
                         >
                             Se intro-video (5 min)
                         </Link>
-                        <Link className="btn-primary btn-sm" href="https://form.jotform.com/240182473965361">
-                            Send ansøgning
-                        </Link>
                     </div>
                 </div>
                 <button

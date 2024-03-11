@@ -1,8 +1,6 @@
 {
+  "/not-found": "app/not-found.js",
   "/page": "app/page.js",
-  "/no-code/page": "app/no-code/page.js",
-  "/ai/page": "app/ai/page.js",
-  "/deltagere/page": "app/deltagere/page.js",
-  "/forloebet/page": "app/forloebet/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/tools/page": "app/tools/page.js"
 }
